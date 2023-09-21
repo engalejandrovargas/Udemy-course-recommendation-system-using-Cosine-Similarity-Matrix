@@ -24,41 +24,40 @@ This project aims to build a recommendation system for Udemy courses using a Cos
 
 First, clone the repository to your local machine:
 
-\`\`\`bash
+bash
 git clone https://github.com/engalejandrovargas/Udemy-course-recommendation-system-using-Cosine-Similarity-Matrix.git
-\`\`\`
+
 
 Navigate to the project directory and install the required packages:
 
-\`\`\`bash
+bash
 cd Udemy-course-recommendation-system-using-Cosine-Similarity-Matrix
 pip install -r requirements.txt
-\`\`\`
+
 
 ## Usage
 
 Run the main script to start the recommendation system:
 
-\`\`\`bash
+bash
 python main.py
-\`\`\`
+
 
 ### Example
 
 Input:
 
-\`\`\`bash
+bash
 Enter a course name: Python for Beginners
-\`\`\`
 
 Output:
 
-\`\`\`bash
+bash
 Recommended courses:
 1. Python for Data Science
 2. Python Web Development
 3. Advanced Python Programming
-\`\`\`
+
 
 ## Contributing
 
